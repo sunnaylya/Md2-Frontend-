@@ -1,6 +1,4 @@
-// import { createElement } from 'react';
-// import logo from './assets/react.svg';
-import styles from './App.module.css';
+import styles from './app.module.css';
 import { useState } from 'react';
 
 export const App = () => {
