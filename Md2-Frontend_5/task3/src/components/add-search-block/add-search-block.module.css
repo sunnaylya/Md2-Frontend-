@@ -1,0 +1,14 @@
+.addInput {
+  width: 70%;
+  margin: 0 20px 20px 0;
+}
+.searchInput {
+    width: 70%;
+  margin: 0 20px 20px 0;
+}
+
+.sortButton {
+  width: fit-content;
+  padding: 10px;
+  margin: 0 10px;
+}

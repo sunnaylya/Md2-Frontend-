@@ -1,0 +1,32 @@
+#root {
+  max-width: 1280px;
+  padding: 1.5rem;
+  margin: 0 auto;
+  display: flex;
+  place-items: center;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+.container {
+  border: 2px solid rgb(144, 141, 141);
+  padding: 20px;
+  min-width: 400px;
+  max-width: 800px;
+}
+
+input {
+  padding: 10px;
+}
+
+
+button {
+  border: none;
+  height: 45px;
+  width: 45px;
+  padding: 5px;
+  cursor: pointer;
+  background-color: rgb(241, 239, 239);
+}
+
+
+

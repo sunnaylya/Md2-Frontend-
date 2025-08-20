@@ -1,0 +1,16 @@
+.todoList {
+  list-style: none;
+
+}
+.todoList__item {
+  padding: 10px;
+  margin: 10px;
+}
+.todoListContainer {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+.todoList__input {
+  margin: 0 10px 0 0;
+}
