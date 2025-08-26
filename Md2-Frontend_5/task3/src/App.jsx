@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { ref, onValue, push, update, remove, set } from "firebase/database";
 import styles from "./App.module.css";
-import { db } from "./firebase.js";
+import { db } from "../firebase.js";
 import { AddSearchBlock } from "./components/add-search-block/add-search-block.jsx";
 import { Todo } from "./components/todo/todo.jsx";
 

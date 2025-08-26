@@ -2,7 +2,7 @@ import { initializeApp } from "firebase/app";
 import { getDatabase } from "firebase/database";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyA4n9UX0HX_pT4J41dPty6AYkZNWIcSSgg",
+  apiKey: "process.env.API_KEY",
   authDomain: "todo-list-c8fb2.firebaseapp.com",
   databaseURL:
     "https://todo-list-c8fb2-default-rtdb.europe-west1.firebasedatabase.app",
